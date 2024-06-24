@@ -10,7 +10,7 @@ Currently supported hardware
 
 # Installation guide
 1) Download and install the latest version of vJoy https://github.com/shauleiz/vJoy/releases
-2) Download and install the latest version of .net
+2) Download and install the latest version of .net https://dotnet.microsoft.com/en-us/download
 3) Once installed load the vJoy configuration program. Select the first controller and then make sure only the following options are ticked
    a) Axes - X, Z and Ry
    b) Number of buttons - 16
