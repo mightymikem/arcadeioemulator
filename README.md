@@ -15,7 +15,7 @@ Currently supported hardware
    a) Axes - X, Z and Ry
    b) Number of buttons - 16
    c) Force feedback - Enable effects and then check all effects are enabled
-4) Download and install ArcadeIOEmulator at https://studio.buymeacoffee.com/dashboard
+4) Download and install ArcadeIOEmulator at https://buymeacoffee.com/arcadeioemulator
 5) Unzip the ArcadeIOEmulator project somewhere, and check the "board specific" instructions below...
 
 # Board Specific Instructions
