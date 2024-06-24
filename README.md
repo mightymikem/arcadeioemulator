@@ -10,11 +10,12 @@ Currently supported hardware
 
 # Installation guide
 1) Download and install the latest version of vJoy https://github.com/shauleiz/vJoy/releases
-2) Once installed load the vJoy configuration program. Select the first controller and then make sure only the following options are ticked
+2) Download and install the latest version of .net
+3) Once installed load the vJoy configuration program. Select the first controller and then make sure only the following options are ticked
    a) Axes - X, Z and Ry
    b) Number of buttons - 16
    c) Force feedback - Enable effects and then check all effects are enabled
-3) Now unzip the ArcadeIOEmulator project somewhere, and check the "board specific" instructions below...
+4) Now unzip the ArcadeIOEmulator project somewhere, and check the "board specific" instructions below...
 
 # Board Specific Instructions
 Use the following instructions based on your arcade boards...
