@@ -15,7 +15,8 @@ Currently supported hardware
    a) Axes - X, Z and Ry
    b) Number of buttons - 16
    c) Force feedback - Enable effects and then check all effects are enabled
-4) Now unzip the ArcadeIOEmulator project somewhere, and check the "board specific" instructions below...
+4) Download and install ArcadeIOEmalator at https://studio.buymeacoffee.com/dashboard
+5) Unzip the ArcadeIOEmulator project somewhere, and check the "board specific" instructions below...
 
 # Board Specific Instructions
 Use the following instructions based on your arcade boards...
@@ -26,10 +27,6 @@ Use the following instructions based on your arcade boards...
 3) (Optional) If you have connected the LPT port above, make sure the port is running on PORT 0378 - 037F. You may need to do this in device manager, or bios, or both.
 
 We will be updating this project regularily, so please check back for updates!
-
-# Finally....
-This project has taken months, buy me a coffee or two to say thanks :D
-https://www.buymeacoffee.com/arcadeioemulator
 
 # Want to contribute?
 If you have experience in reverse engineering arcade IO, we'd love you to get involved.
