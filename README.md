@@ -25,3 +25,7 @@ Use the following instructions based on your arcade boards...
 3) (Optional) If you have connected the LPT port above, make sure the port is running on PORT 0378 - 037F. You may need to do this in device manager, or bios, or both.
 
 We will be updating this project regularily, so please check back for updates!
+
+# Want to contribute?
+If you have experience in reverse engineering arcade IO, we'd love you to get involved.
+We're looking to add as many IO board emulations as possible, just drop us a line!
