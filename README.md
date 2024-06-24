@@ -27,6 +27,10 @@ Use the following instructions based on your arcade boards...
 
 We will be updating this project regularily, so please check back for updates!
 
+# Finally....
+This project has taken months, buy me a coffee to say thanks :)
+https://www.buymeacoffee.com/arcadeioemulator
+
 # Want to contribute?
 If you have experience in reverse engineering arcade IO, we'd love you to get involved.
 We're looking to add as many IO board emulations as possible, just drop us a line!
