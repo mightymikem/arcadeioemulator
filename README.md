@@ -28,7 +28,7 @@ Use the following instructions based on your arcade boards...
 We will be updating this project regularily, so please check back for updates!
 
 # Finally....
-This project has taken months, buy me a coffee to say thanks :)
+This project has taken months, buy me a coffee or two to say thanks :D
 https://www.buymeacoffee.com/arcadeioemulator
 
 # Want to contribute?
