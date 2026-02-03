@@ -7,6 +7,8 @@ Currently supported hardware
 - Fast and Furious
 - Fast and Furious Drift
 - H2 Overdrive
+- Other raw thrills cabinets
+- Golden Tee Nitehawk based cabinets (Maybe more, ive not tested)
 
 # Installation guide
 1) Download and install the latest version of vJoy https://github.com/shauleiz/vJoy/releases
