@@ -35,7 +35,7 @@ Use the following instructions based on your arcade boards...
 We will be updating this project regularily, so please check back for updates!
 
 # Got a machine we havent supported?
-if you have a mavhine that needs IO working with modern pcs let us know! We'd love to add support. 
+if you have a machine that needs IO working with modern pcs let us know! We'd love to add support. 
 
 # Want to contribute?
 If you have experience in reverse engineering arcade IO, we'd love you to get involved.
