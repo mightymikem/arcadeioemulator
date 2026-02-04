@@ -3,6 +3,9 @@ Allowing original arcade IO hardware such as controls, lamps and force feedback 
 All controls will be available on your PC as a new game controller that can be used with any emulator or game.
 Force feedback is also emulated, along with output lamps which use any kind of output program such as mamehooker, outputblaster, etc.
 
+If you need a hand, or would just like to be amongst fellow arcade enthusiasts please visit our discord
+https://discord.gg/CJkEJws2fN
+
 Currently supported hardware
 - Fast and Furious
 - Fast and Furious Drift
