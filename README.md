@@ -7,20 +7,20 @@ If you need a hand, or would just like to be amongst fellow arcade enthusiasts p
 https://discord.gg/CJkEJws2fN
 
 Currently supported hardware
-- Raw Thrills
+- **Raw Thrills**
    - Fast and Furious
    - Fast and Furious Drift
    - H2 Overdrive
    - Other raw thrills cabinets
 
-- **BETA** Golden Tee
+- **BETA: Golden Tee**
    - Golden Tee 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019. Maybe newer and older, not tested.
    
-- **BETA** Europa-R.
+- **BETA:  Europa-R**
    - Sega Rally 3
    - Sega Showdown
    - Sega Grid
-- **BETA** Namco JVS (ES3, maybe others)
+- **BETA: Namco JVS** (ES3, maybe others)
   - Mario Kart Arcade Cabs
   - Machstorm
   - Star Wars
