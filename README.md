@@ -13,6 +13,7 @@ Currently supported hardware
 - Other raw thrills cabinets
 - Golden Tee Nitehawk based cabinets BETA (Maybe more, ive not tested)
 - Europa-R. BETA. Sega Rally 3, Showdown, Grid.
+- Namco JVS (ES3, maybe others)
 
 # Installation guide
 1) Download and install the latest version of vJoy https://github.com/shauleiz/vJoy/releases
