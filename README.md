@@ -38,9 +38,9 @@ Use the following instructions based on your arcade boards...
 We will be updating this project regularily, so please check back for updates!
 
 # Got a machine we havent supported?
-if you have a machine that needs IO working with modern pcs let us know! We'd love to add support. 
+if you have a machine that needs IO working with modern pcs let us know! We'd love to add support. Hop on our discord server and let us know (link above)
 
 # Want to contribute?
 If you have experience in reverse engineering arcade IO, we'd love you to get involved.
-We're looking to add as many IO board emulations as possible, just drop us a line!
+We're looking to add as many IO board emulations as possible, just drop us a line on Discord.
 
