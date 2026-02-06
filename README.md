@@ -12,7 +12,7 @@ Currently supported hardware
 - H2 Overdrive
 - Other raw thrills cabinets
 - **BETA** Golden Tee Nitehawk based cabinets (Maybe more, ive not tested)
-- **BETA** Europa-R. BETA. Sega Rally 3, Showdown, Grid.
+- **BETA** Europa-R. Sega Rally 3, Showdown, Grid.
 - **BETA** Namco JVS (ES3, maybe others)
 
 # Installation guide
