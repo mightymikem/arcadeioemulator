@@ -28,6 +28,7 @@ Currently supported hardware
   - Wangan Midnight Maximum Tune 5, 5DX, 5DX PLUS, 6, 6R etc
   - Tekken 7
   - Time Crisis 5
+  - Pokken Tournament
   - Other Namco JVS Cabinets
     
   - More...
