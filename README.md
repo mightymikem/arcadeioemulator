@@ -16,15 +16,13 @@ Currently supported hardware
 - **BETA** Namco JVS (ES3, maybe others)
 
 # Installation guide
-1) Download and install the latest version of vJoy https://github.com/shauleiz/vJoy/releases
-2) Download and install the latest version of .net https://dotnet.microsoft.com/en-us/download
-3) Once installed load the vJoy configuration program. Select the first controller and then make sure only the following options are ticked
+1) Download the lastes release here https://github.com/mightymikem/arcadeioemulator/releases
+2) The program will guide you through installing pre-requisits.
+3) Once everythings installed, you will have vjoy. Load the vJoy configuration program. Select the first controller and then make sure only the following options are ticked
    a) Axes - X, Z and Ry
    b) Number of buttons - 16
    c) Force feedback - Enable effects and then check all effects are enabled
-4) Download the latest release from the Releases section here.
-5) Visit https://buymeacoffee.com/arcadeioemulator and grab a licence
-6) Unzip the ArcadeIOEmulator project somewhere, and check the "board specific" instructions below...
+4) Visit https://buymeacoffee.com/arcadeioemulator and grab a licence
 
 # Board Specific Instructions
 Use the following instructions based on your arcade boards...
