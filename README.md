@@ -7,13 +7,25 @@ If you need a hand, or would just like to be amongst fellow arcade enthusiasts p
 https://discord.gg/CJkEJws2fN
 
 Currently supported hardware
-- Fast and Furious
-- Fast and Furious Drift
-- H2 Overdrive
-- Other raw thrills cabinets
-- **BETA** Golden Tee Nitehawk based cabinets (Maybe more, ive not tested)
-- **BETA** Europa-R. Sega Rally 3, Showdown, Grid.
+- Raw Thrills
+   - Fast and Furious
+   - Fast and Furious Drift
+   - H2 Overdrive
+   - Other raw thrills cabinets
+
+- **BETA** Golden Tee
+   - Golden Tee 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019. Maybe newer and older, not tested.
+   
+- **BETA** Europa-R.
+   - Sega Rally 3
+   - Sega Showdown
+   - Sega Grid
 - **BETA** Namco JVS (ES3, maybe others)
+  - Mario Kart Arcade Cabs
+  - Machstorm
+  - Star Wars
+  - Wangan Midnight Maximum Tune 5, 5DX, 5DX PLUS, 6, 6R etc
+  - More...
 
 # Installation guide
 1) Download the lastes release here https://github.com/mightymikem/arcadeioemulator/releases
