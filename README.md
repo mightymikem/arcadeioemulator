@@ -20,11 +20,16 @@ Currently supported hardware
    - Sega Rally 3
    - Sega Showdown
    - Sega Grid
+   
 - **BETA: Namco JVS** (ES3, maybe others)
   - Mario Kart Arcade Cabs
   - Machstorm
-  - Star Wars
+  - Star Wars Battlepod
   - Wangan Midnight Maximum Tune 5, 5DX, 5DX PLUS, 6, 6R etc
+  - Tekken 7
+  - Time Crisis 5
+  - Other Namco JVS Cabinets
+    
   - More...
 
 # Installation guide
