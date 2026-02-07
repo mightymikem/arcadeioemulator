@@ -36,13 +36,13 @@ Currently supported hardware
   - Requires RS-485 → USB adapter
 
 # Installation guide
-1) Download the lastes release here https://github.com/mightymikem/arcadeioemulator/releases
-2) The program will guide you through installing pre-requisits.
-3) Once everythings installed, you will have vjoy. Load the vJoy configuration program. Select the first controller and then make sure only the following options are ticked
-   a) Axes - X, Z and Ry
+1) Download the lstest release here https://github.com/mightymikem/arcadeioemulator/releases
+2) The program will guide you through installing prerequisites.
+3) Once everything's installed, you will have vJoy. Load the vJoy configuration program. Select the first controller and then make sure only the following options are ticked
+   a) Axes - X, Z, and Ry
    b) Number of buttons - 16
    c) Force feedback - Enable effects and then check all effects are enabled
-4) Visit https://buymeacoffee.com/arcadeioemulator and grab a licence
+5) Visit https://buymeacoffee.com/arcadeioemulator and grab a licence
 
 # Board Specific Instructions
 Use the following instructions based on your arcade boards...
@@ -53,7 +53,7 @@ Use the following instructions based on your arcade boards...
 3) (Optional) If you have connected the LPT port above, make sure the port is running on PORT 0378 - 037F if possible, if not its should still work. You may need to do this in device manager, or bios, or both. Some users have also reported changing the LPT port to LPT3 seems to fix issues with external LPT cards etc.
 
 # Golden Tee
-1) Connect the USB cable from the main IO board to your PC.
+1) Connect the USB cable from the main IO board to your PC. Thats it!
 
 # Namco JVS
 1) Connect the IO board cable to your RS-485 → USB adapter.
