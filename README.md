@@ -33,7 +33,7 @@ Currently supported hardware
   - Time Crisis 5
   - Pokken Tournament
   - Other Namco JVS Cabinets
-  - Requires COM port on PC
+  - Reqwuires RS-485 → USB adapter
 
 # Installation guide
 1) Download the lastes release here https://github.com/mightymikem/arcadeioemulator/releases
@@ -56,7 +56,8 @@ Use the following instructions based on your arcade boards...
 1) Connect the USB cable from the main IO board to your PC.
 
 # Namco JVS
-1) Connect the IO board to the COM port on your PC.
+1) Connect the IO board cable to your RS-485 → USB adapter.
+2) Plugin USB from the adapter to your PC.
 
 We will be updating this project regularily, so please check back for updates!
 
