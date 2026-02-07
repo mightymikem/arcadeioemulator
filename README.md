@@ -12,14 +12,17 @@ Currently supported hardware
    - Fast and Furious Drift
    - H2 Overdrive
    - Other raw thrills cabinets
+   - Requires USB port on PC, and optionally LPT port for FFB
 
 - **BETA: Golden Tee**
    - Golden Tee 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019. Maybe newer and older, not tested.
+   - Requires USB port on PC
    
 - **BETA:  Europa-R**
    - Sega Rally 3
    - Sega Showdown
    - Sega Grid
+   - Requires USB port on PC, and optionally LPT port for FFB
    
 - **BETA: Namco JVS** (ES3, maybe others)
   - Mario Kart Arcade Cabs
@@ -30,8 +33,7 @@ Currently supported hardware
   - Time Crisis 5
   - Pokken Tournament
   - Other Namco JVS Cabinets
-    
-  - More...
+  - Requires COM port on PC
 
 # Installation guide
 1) Download the lastes release here https://github.com/mightymikem/arcadeioemulator/releases
