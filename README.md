@@ -47,13 +47,16 @@ Currently supported hardware
 # Board Specific Instructions
 Use the following instructions based on your arcade boards...
 
-# Raw Thrills / Sega Europa R / Namco JVS
+# Raw Thrills / Sega Europa R
 1) Connect the USB cable from the main IO board to your PC. It's the green one with the Jamma harness attached.
 2) (Optional) Connect the LPT port from the second IO board (Usually seated below the Jamma board) to your PC if you have an LPT port on your PC. Ideally your motherboard has a built in LPT port, otherwise support can be spotty for generic cards) Everything will work fine without this, but you won't get Force Feedback.
 3) (Optional) If you have connected the LPT port above, make sure the port is running on PORT 0378 - 037F if possible, if not its should still work. You may need to do this in device manager, or bios, or both. Some users have also reported changing the LPT port to LPT3 seems to fix issues with external LPT cards etc.
 
 # Golden Tee
 1) Connect the USB cable from the main IO board to your PC.
+
+# Namco JVS
+1) Connect the IO board to the COM port on your PC.
 
 We will be updating this project regularily, so please check back for updates!
 
