@@ -33,7 +33,7 @@ Currently supported hardware
   - Time Crisis 5
   - Pokken Tournament
   - Other Namco JVS Cabinets
-  - Reqwuires RS-485 → USB adapter
+  - Requires RS-485 → USB adapter
 
 # Installation guide
 1) Download the lastes release here https://github.com/mightymikem/arcadeioemulator/releases
