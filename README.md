@@ -1,7 +1,7 @@
 # Arcade IO Emulator
-**Allowing original arcade IO hardware, such as controls, lamps and force feedback, to be used with any PC.**
+**Allowing original arcade IO hardware, such as controls, lamps and force feedback, to be used with any Windows PC.**
 
-All controls will be available on your PC as a new game controller that can be used with any emulator or game.
+Acting like an all in one windows driver, all controls will be available on your Windows PC as a new game controller that can be used with any emulator or game.
 Force feedback is also supported, along with output lamps which use any kind of output program such as outputblaster, ffbblaster, supermodel, mame etc.
 
 If you need a hand or would just like to be amongst fellow arcade enthusiasts, please visit our discord
