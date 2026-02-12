@@ -1,12 +1,12 @@
 # Arcade IO Emulator
-**Allowing original arcade IO hardware, such as controls, lamps and force feedback, to be used with any Windows PC.**
+**Allowing original arcade IO hardware, such as controls, lamps, and force feedback, to be used with any Windows PC.**
 
 **No cutting wires, no extra controller boards, just plug the original hardware into your PC!**
 
-Acting like an all in one windows driver, all controls will be available on your Windows PC as a new game controller that can be used with any emulator or game.
+Acting like an all-in-one Windows driver, all controls will be available on your Windows PC as a new game controller that can be used with any emulator or game.
 Force feedback is also supported, along with output lamps which use any kind of output program such as outputblaster, ffbblaster, supermodel, mame etc.
 
-If you need a hand or would just like to be amongst fellow arcade enthusiasts, please visit our discord
+If you need a hand or would just like to be amongst fellow arcade enthusiasts, please visit our Discord.
 https://discord.gg/CJkEJws2fN
 
 Currently supported hardware
@@ -42,7 +42,7 @@ Currently supported hardware
    - Chase HQ 2
    - D1GP
    - Super Street Fighter 4
-   - And probaly all other Taito Type X2 games
+   - And probably all other Taito Type X2 games
 
 # Installation guide
 1) Download the latest release here https://github.com/mightymikem/arcadeioemulator/releases
