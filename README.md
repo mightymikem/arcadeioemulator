@@ -45,6 +45,7 @@ Currently supported hardware
    - D1GP
    - Super Street Fighter 4
    - And probably all other Taito Type X2 games
+   - Requires RS-485 → USB adapter
 
 # Installation guide
 1) Download the latest release here https://github.com/mightymikem/arcadeioemulator/releases
