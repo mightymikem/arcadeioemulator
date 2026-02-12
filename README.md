@@ -37,6 +37,12 @@ Currently supported hardware
   - Pokken Tournament
   - Other Namco JVS Cabinets
   - Requires RS-485 → USB adapter
+ 
+- **BETA: Taito Type X2**
+   - Chase HQ 2
+   - D1GP
+   - Super Street Fighter 4
+   - And probaly all other Taito Type X2 games
 
 # Installation guide
 1) Download the latest release here https://github.com/mightymikem/arcadeioemulator/releases
@@ -58,7 +64,7 @@ Use the following instructions based on your arcade boards...
 # Golden Tee
 1) Connect the USB cable from the main IO board to your PC. That's it!
 
-# Namco JVS
+# Namco JVS / Taito Type X2
 1) Connect the IO board cable to your RS-485 → USB adapter.
 2) Plugin USB from the adapter into your PC.
 
