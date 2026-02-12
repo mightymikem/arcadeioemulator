@@ -47,6 +47,8 @@ Currently supported hardware
    - And probably all other Taito Type X2 games
    - Requires RS-485 → USB adapter
 
+** Sytems that are in beta have recently been added, if you have one, please let us know how you get on via Discord.
+
 # Installation guide
 1) Download the latest release here https://github.com/mightymikem/arcadeioemulator/releases
 2) The program will guide you through installing prerequisites.
