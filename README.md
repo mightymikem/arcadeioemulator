@@ -3,7 +3,7 @@
 
 **No cutting wires, no extra controller boards, just plug the original hardware into your PC!**
 
-ArcadeIOEmulator is the easiest way to replace a dead original arcsde PC with a modern equivalent, or just unlock your existing hardware, enabling it to play any PC, emulator and retro games. 
+ArcadeIOEmulator is the easiest way to replace an original arcade PC with a modern equivalent, or just unlock your existing hardware, enabling it to play any PC, emulator or retro. 
 
 Acting like an all-in-one Windows driver, all controls will be available on your Windows PC as a new game controller that can be used with any emulator or game.
 Force feedback is also supported, along with output lamps which use any kind of program such as Teknoparrot, outputblaster, ffbblaster, supermodel, mame etc.
@@ -47,7 +47,7 @@ Currently supported hardware
    - And probably all other Taito Type X2 games
    - Requires RS-485 → USB adapter
 
-** Sytems that are in beta have recently been added, if you have one, please let us know how you get on via Discord.
+** Sytems that are in beta have recently been added,if you have one, please let us know how you get on via Discord.
 
 # Installation guide
 1) Download the latest release here https://github.com/mightymikem/arcadeioemulator/releases
