@@ -13,41 +13,42 @@ https://discord.gg/CJkEJws2fN
 
 Currently supported hardware
 - **Raw Thrills**
-   - Fast and Furious
-   - Fast and Furious Drift
-   - H2 Overdrive
-   - Other raw thrills cabinets
+   - Fast and Furious Cabinets
+   - Fast and Furious Drift Cabinets
+   - H2 Overdrive Cabinets
+   - Other raw thrills Cabinets
    - Requires a USB port on the PC, and optionally a LPT port for FFB
 
 - **BETA: Golden Tee**
-   - Golden Tee 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019. Maybe newer and older, not tested.
+   - Golden Tee 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019 Cabinets. Maybe newer and older, not tested.
    - Requires a USB port on the PC
    
 - **BETA:  Europa-R**
-   - Sega Rally 3
-   - Sega Showdown
-   - Sega Grid
+   - Sega Rally 3 Cabinets
+   - Sega Showdown Cabinets
+   - Sega Grid Cabinets
    - Requires a USB port on the PC, and optionally a LPT port for FFB
    
 - **BETA: Namco JVS** (ES3, maybe others)
-  - Mario Kart Arcade Cabs
-  - Machstorm
-  - Star Wars Battlepod
-  - Wangan Midnight Maximum Tune 5, 5DX, 5DX PLUS, 6, 6R etc
-  - Tekken 7
-  - Time Crisis 5
-  - Pokken Tournament
+  - Mario Kart Arcade Cabinets
+  - Machstorm Cabinets
+  - Star Wars Battlepod Cabinets
+  - Wangan Midnight Maximum Tune 5, 5DX, 5DX PLUS, 6, 6R etc Cabinets
+  - Tekken 7 Cabinets
+  - Time Crisis 5 Cabinets
+  - Pokken Tournament Cabinets
   - Other Namco JVS Cabinets
   - Requires RS-485 → USB adapter
  
 - **BETA: Taito Type X2**
-   - Chase HQ 2
-   - D1GP
-   - Super Street Fighter 4
-   - And probably all other Taito Type X2 games
+   - Chase HQ 2 Cabinets
+   - D1GP Cabinets
+   - Super Street Fighter 4 Cabinets
+   - All other Taito Type X2 Cabinets
+   - Probably Other Taito boards - confirming at the moment
    - Requires RS-485 → USB adapter
 
-** Sytems that are in beta have recently been added,if you have one, please let us know how you get on via Discord.
+** Systems that are in beta have recently been added,if you have one, please let us know how you get on via Discord.
 
 # Installation guide
 1) Download the latest release here https://github.com/mightymikem/arcadeioemulator/releases
