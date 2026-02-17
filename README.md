@@ -20,7 +20,7 @@ Currently supported hardware
    - Other raw thrills Cabinets
    - Requires a USB port on the PC, and optionally a LPT port for FFB
 
-- **BETA: Golden Tee**
+- **Golden Tee**
    - Golden Tee 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019 Cabinets. Maybe newer and older, not tested.
    - Requires a USB port on the PC
    
