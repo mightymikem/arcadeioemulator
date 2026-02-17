@@ -16,6 +16,7 @@ Currently supported hardware
    - Fast and Furious Cabinets
    - Fast and Furious Drift Cabinets
    - H2 Overdrive Cabinets
+   - Superbikes 1 + 2 Cabinets
    - Other raw thrills Cabinets
    - Requires a USB port on the PC, and optionally a LPT port for FFB
 
