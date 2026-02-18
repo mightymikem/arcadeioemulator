@@ -45,7 +45,6 @@ Currently supported hardware
       - Chase HQ 2 Cabinets
       - D1GP Cabinets
       - Super Street Fighter 4 Cabinets
-      - All other Taito Type X2 Cabinets
       - Many other Taito cabinets
    - **Sega JVS Supported**
       - Naomi/Naomi 2
