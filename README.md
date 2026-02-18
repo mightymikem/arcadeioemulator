@@ -30,24 +30,30 @@ Currently supported hardware
    - Sega Grid Cabinets
    - Requires a USB port on the PC, and optionally a LPT port for FFB
    
-- **BETA: Namco JVS** (ES3, maybe others)
-  - Mario Kart Arcade Cabinets
-  - Machstorm Cabinets
-  - Star Wars Battlepod Cabinets
-  - Wangan Midnight Maximum Tune 5, 5DX, 5DX PLUS, 6, 6R etc Cabinets
-  - Tekken 7 Cabinets
-  - Time Crisis 5 Cabinets
-  - Pokken Tournament Cabinets
-  - Other Namco JVS Cabinets
-  - Requires RS-485 → USB adapter
- 
-- **BETA: Taito Type X2**
-   - Chase HQ 2 Cabinets
-   - D1GP Cabinets
-   - Super Street Fighter 4 Cabinets
-   - All other Taito Type X2 Cabinets
-   - Probably Other Taito boards - confirming at the moment
+- **BETA: All in one JVS Support** 
    - Requires RS-485 → USB adapter
+   - **Namco JVS Supported** 
+      - Mario Kart Arcade Cabinets
+      - Machstorm Cabinets
+      - Star Wars Battlepod Cabinets
+      - Wangan Midnight Maximum Tune 5, 5DX, 5DX PLUS, 6, 6R etc Cabinets
+      - Tekken 7 Cabinets
+      - Time Crisis 5 Cabinets
+      - Pokken Tournament Cabinets
+      - Many other Namco JVS Cabinets   
+   - **Taito JVS Supported**
+      - Chase HQ 2 Cabinets
+      - D1GP Cabinets
+      - Super Street Fighter 4 Cabinets
+      - All other Taito Type X2 Cabinets
+      - Many other Taito cabinets
+   - **Sega JVS Supported**
+      - Naomi/Naomi 2
+      - Lindbergh
+      - Triforce
+      - etc
+   - **Other JVS Boards**
+      - We think this should work with many more boards also.
 
 ** Systems that are in beta have recently been added,if you have one, please let us know how you get on via Discord.
 
@@ -71,7 +77,7 @@ Use the following instructions based on your arcade boards...
 # Golden Tee
 1) Connect the USB cable from the main IO board to your PC. That's it!
 
-# Namco JVS / Taito Type X2
+# JVS Boards
 1) Connect the IO board cable to your RS-485 → USB adapter.
 2) Plugin USB from the adapter into your PC.
 
