@@ -51,6 +51,7 @@ Currently supported hardware
       - Naomi/Naomi 2
       - Lindbergh
       - Triforce
+      - RingEdge
       - etc
    - **Other JVS Boards**
       - We think this should work with many more boards also.
