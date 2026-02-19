@@ -18,7 +18,7 @@ Currently supported hardware
    - H2 Overdrive Cabinets
    - Superbikes 1 + 2 Cabinets
    - Other raw thrills Cabinets
-   - Requires a USB port on the PC, and optionally a LPT port for FFB
+   - Requires a USB port on the PC, and optionally a LPT port for Force Feedback
 
 - **Golden Tee**
    - Golden Tee 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019 Cabinets. Maybe newer and older, not tested.
@@ -28,7 +28,7 @@ Currently supported hardware
    - Sega Rally 3 Cabinets
    - Sega Showdown Cabinets
    - Sega Grid Cabinets
-   - Requires a USB port on the PC, and optionally a LPT port for FFB
+   - Requires a USB port on the PC, and optionally a LPT port for Force Feedback
    
 - **BETA: All in one JVS Support** 
    - Requires RS-485 → USB adapter
