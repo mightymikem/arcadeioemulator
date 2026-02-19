@@ -40,6 +40,7 @@ Currently supported hardware
       - Tekken 7 Cabinets
       - Time Crisis 5 Cabinets
       - Pokken Tournament Cabinets
+      - Dead Heat Cabinets
       - Many other Namco JVS Cabinets   
    - **Taito JVS Supported**
       - Chase HQ 2 Cabinets
