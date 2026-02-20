@@ -13,7 +13,7 @@ Force feedback is also supported, along with output lamps which use any kind of 
 If you need a hand or would just like to be amongst fellow arcade enthusiasts, please visit our Discord.
 https://discord.gg/CJkEJws2fN
 
-*Verified Cabinets
+* Verified Cabinets
 - **Raw Thrills**
    - Fast and Furious Cabinets
    - Fast and Furious Drift Cabinets
