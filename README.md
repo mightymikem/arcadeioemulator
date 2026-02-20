@@ -1,6 +1,6 @@
 # Arcade IO Emulator
 **Turn your original arcade cabinet into a plug-and-play PC machine.
-Steering, pedals, lights and force feedback work automatically, no crazy setup, no rewiring. Just start the program up af we do everything else!**
+Steering, pedals, lights and force feedback work automatically, no crazy setup, no rewiring.**
 
 **Most arcade conversions require rewiring and additional USB encoders.
 This keeps your cabinet original and reversible.**
