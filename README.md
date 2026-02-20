@@ -2,8 +2,6 @@
 **Turn your original arcade cabinet into a plug-and-play PC machine.
 No crazy setup, no rewiring.**
 
-**Keep your cabinet original and reversible.**
-
 <img width="1200" height="1200" alt="1771569479898576332006785203525" src="https://github.com/user-attachments/assets/5200769a-40d4-4a0a-a78b-dbd5e578312f" />
 
 
