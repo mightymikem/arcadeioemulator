@@ -4,6 +4,9 @@ No crazy setup, no rewiring.**
 
 **Keep your cabinet original and reversible.**
 
+<img width="1200" height="1200" alt="1771569479898576332006785203525" src="https://github.com/user-attachments/assets/5200769a-40d4-4a0a-a78b-dbd5e578312f" />
+
+
 ArcadeIOEmulator is the easiest way to replace an original arcade PC with a modern equivalent, or just unlock your existing hardware, enabling it to play any PC, emulator or retro game. 
 
 Acting like an all-in-one Windows driver, all controls will be available on your Windows PC as a new game controller that can be used with any emulator or game.
