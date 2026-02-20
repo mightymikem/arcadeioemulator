@@ -62,8 +62,9 @@ https://discord.gg/CJkEJws2fN
 
 # Installation guide
 1) Download the latest release here https://github.com/mightymikem/arcadeioemulator/releases
-2) Visit https://buymeacoffee.com/arcadeioemulator and grab a licence
-4) Once installed, your cabinet will appear as a new game controller you can use in any game.
+2) Once installed, your cabinet will appear as a new game controller you can use in any game.
+3) Give it a try!
+4) If everything works, grab a licence at https://buymeacoffee.com/arcadeioemulator
 
 
 # Board Specific Instructions
