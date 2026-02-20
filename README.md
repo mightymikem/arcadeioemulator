@@ -1,7 +1,9 @@
 # Arcade IO Emulator
-**Allowing original arcade IO hardware, such as controls, lamps, and force feedback, to be used with any Windows PC.**
+**Turn your original arcade cabinet into a plug-and-play PC machine.
+Steering, pedals, lights and force feedback work automatically — no rewiring.**
 
-**No cutting wires, no extra controller boards, just plug the original hardware into your PC!**
+**Most arcade conversions require rewiring and additional USB encoders.
+This keeps your cabinet original and reversible.**
 
 ArcadeIOEmulator is the easiest way to replace an original arcade PC with a modern equivalent, or just unlock your existing hardware, enabling it to play any PC, emulator or retro game. 
 
@@ -11,7 +13,7 @@ Force feedback is also supported, along with output lamps which use any kind of 
 If you need a hand or would just like to be amongst fellow arcade enthusiasts, please visit our Discord.
 https://discord.gg/CJkEJws2fN
 
-Currently supported hardware
+Verified Cabinets
 - **Raw Thrills**
    - Fast and Furious Cabinets
    - Fast and Furious Drift Cabinets
