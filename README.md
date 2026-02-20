@@ -61,12 +61,10 @@ https://discord.gg/CJkEJws2fN
 
 # Installation guide
 1) Download the latest release here https://github.com/mightymikem/arcadeioemulator/releases
-2) The program will guide you through installing prerequisites.
-3) Once everything's installed, you will have vJoy. Load the vJoy configuration program. Select the first controller and then make sure only the following options are ticked
-   a) Axes - X, Z, and Ry
-   b) Number of buttons - 16
-   c) Force feedback - Enable effects and then check all effects are enabled
-5) Visit https://buymeacoffee.com/arcadeioemulator and grab a licence
+2) Visit https://buymeacoffee.com/arcadeioemulator and grab a licence
+3) The program will guide you through installing prerequisites.
+4) Once everything's installed, your cabinet will appear as a new game controller you can use in any game.
+
 
 # Board Specific Instructions
 Use the following instructions based on your arcade boards...
