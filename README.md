@@ -13,7 +13,7 @@ Force feedback is also supported, along with output lamps which use any kind of 
 If you need a hand or would just like to be amongst fellow arcade enthusiasts, please visit our Discord.
 https://discord.gg/CJkEJws2fN
 
-* Verified Cabinets
+# Verified Cabinets
 - **Raw Thrills**
    - Fast and Furious Cabinets
    - Fast and Furious Drift Cabinets
@@ -60,7 +60,7 @@ https://discord.gg/CJkEJws2fN
 
 ** Systems that are in beta have recently been added,if you have one, please let us know how you get on via Discord.
 
-*Installation guide
+# Installation guide
 1) Download the latest release here https://github.com/mightymikem/arcadeioemulator/releases
 2) The program will guide you through installing prerequisites.
 3) Once everything's installed, you will have vJoy. Load the vJoy configuration program. Select the first controller and then make sure only the following options are ticked
@@ -69,7 +69,7 @@ https://discord.gg/CJkEJws2fN
    c) Force feedback - Enable effects and then check all effects are enabled
 5) Visit https://buymeacoffee.com/arcadeioemulator and grab a licence
 
-*Board Specific Instructions
+# Board Specific Instructions
 Use the following instructions based on your arcade boards...
 
 # Raw Thrills / Sega Europa R
@@ -86,10 +86,10 @@ Use the following instructions based on your arcade boards...
 
 We will be updating this project regularly, so please check back for updates!
 
-*Got a machine we haven't supported?
+# Got a machine we haven't supported?
 If you have a machine that needs IO working with modern pc's, let us know! We'd love to add support. Hop on our Discord server and let us know (link above)
 
-*Want to contribute?
+# Want to contribute?
 If you have experience in reverse engineering arcade IO, we'd love you to get involved.
 We're looking to add as many IO board emulations as possible. Just drop us a line on Discord.
 
