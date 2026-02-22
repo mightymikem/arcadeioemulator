@@ -25,7 +25,13 @@ https://discord.gg/CJkEJws2fN
 - **Golden Tee**
    - Golden Tee 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019 Cabinets. Maybe newer and older, not tested.
    - Requires a USB port on the PC
-   
+
+- **BETA: Global VR (Nytric Board)**
+   - PGA Tour Challenge etc
+   - Need for Speed
+   - And many more
+   - Requires a USB port on the PC
+
 - **BETA:  Europa-R**
    - Sega Rally 3 Cabinets
    - Sega Showdown Cabinets
