@@ -63,6 +63,9 @@ https://discord.gg/CJkEJws2fN
       - etc
    - **Other JVS Boards**
       - We think this should work with many more boards also.
+- **BETA: Taito Type X4**
+   - Tested with "Love Life after school activity".
+   - Haven't tried others yet
 
 ** Systems that are in beta have recently been added,if you have one, please let us know how you get on via Discord.
 
