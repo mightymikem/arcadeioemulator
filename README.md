@@ -42,7 +42,7 @@ https://discord.gg/CJkEJws2fN
    - Haven't tried others yet
    - Requires a USB port on a PC
 
-- **BETA:  Europa-R**
+- **BETA: Sega Europa-R**
    - Sega Rally 3 Cabinets
    - Sega Showdown Cabinets
    - Sega Grid Cabinets
