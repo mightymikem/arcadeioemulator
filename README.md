@@ -26,11 +26,15 @@ https://discord.gg/CJkEJws2fN
    - Golden Tee 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019 Cabinets. Maybe newer and older, not tested.
    - Requires a USB port on the PC
 
-- **BETA: Global VR (Nytric Board)**
+- **Global VR (Nytric Board)**
    - PGA Tour Challenge etc
    - Need for Speed
    - And many more
    - Requires a USB port on the PC
+
+- **BETA: Taito Type X4**
+   - Tested with "Love Life after school activity".
+   - Haven't tried others yet
 
 - **BETA:  Europa-R**
    - Sega Rally 3 Cabinets
@@ -63,9 +67,6 @@ https://discord.gg/CJkEJws2fN
       - etc
    - **Other JVS Boards**
       - We think this should work with many more boards also.
-- **BETA: Taito Type X4**
-   - Tested with "Love Life after school activity".
-   - Haven't tried others yet
 
 ** Systems that are in beta have recently been added,if you have one, please let us know how you get on via Discord.
 
