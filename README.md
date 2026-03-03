@@ -32,6 +32,11 @@ https://discord.gg/CJkEJws2fN
    - And many more
    - Requires a USB port on a PC
 
+- **BETA: Taito x2/x3**
+   - Support Fast I/O DMAC boards
+   - Fast I/O microcontroller boards
+   - Full setup info is shown when you fire up the app.
+
 - **BETA: Taito Type X4**
    - Tested with "Love Life after school activity".
    - Haven't tried others yet
@@ -101,4 +106,8 @@ If you have a machine that needs IO working with modern pc's, let us know! We'd 
 # Want to contribute?
 If you have experience in reverse engineering arcade IO, we'd love you to get involved.
 We're looking to add as many IO board emulations as possible. Just drop us a line on Discord.
+
+# Special Thanks and acknowledgements
+- Corey Griffith and Joseph Howse for their Taito FastIO implementation https://github.com/JoeHowse/FastIO2KB.
+- Benjamin Maurin for his incredible VjoyIoFeeder project https://github.com/njz3/vJoyIOFeederWithFFB.
 
