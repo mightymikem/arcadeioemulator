@@ -24,23 +24,24 @@ https://discord.gg/CJkEJws2fN
 
 - **Golden Tee**
    - Golden Tee 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019 Cabinets. Maybe newer and older, not tested.
-   - Requires a USB port on the PC
+   - Requires a USB port on a PC
 
 - **Global VR (Nytric Board)**
    - PGA Tour Challenge etc
    - Need for Speed
    - And many more
-   - Requires a USB port on the PC
+   - Requires a USB port on a PC
 
 - **BETA: Taito Type X4**
    - Tested with "Love Life after school activity".
    - Haven't tried others yet
+   - Requires a USB port on a PC
 
 - **BETA:  Europa-R**
    - Sega Rally 3 Cabinets
    - Sega Showdown Cabinets
    - Sega Grid Cabinets
-   - Requires a USB port on the PC, and optionally a LPT port for Force Feedback
+   - Requires a USB port on a PC, and optionally a LPT port for Force Feedback
    
 - **BETA: All in one JVS Support** 
    - Requires RS-485 → USB adapter
