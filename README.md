@@ -36,6 +36,7 @@ https://discord.gg/CJkEJws2fN
    - Support Fast I/O DMAC boards
    - Fast I/O microcontroller boards
    - Full setup info is shown when you fire up the app.
+   - Falls back to JVS if Fast IO is not available
 
 - **BETA: Taito Type X4**
    - Tested with "Love Life after school activity".
