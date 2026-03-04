@@ -13,7 +13,10 @@ Force feedback is also supported, along with output lamps which use any kind of 
 If you need a hand or would just like to be amongst fellow arcade enthusiasts, please visit our Discord.
 https://discord.gg/CJkEJws2fN
 
-# Support For...
+# Support for lots of systems...
+
+<img width="516" height="420" alt="image" src="https://github.com/user-attachments/assets/bbb9c076-ee50-46f9-bc2d-00aa54c1745f" />
+
 
 - **Raw Thrills**
    - Fast and Furious Cabinets
@@ -75,8 +78,6 @@ https://discord.gg/CJkEJws2fN
       - etc
    - **Other JVS Boards**
       - We think this should work with many more boards also.
-
-<img width="516" height="420" alt="image" src="https://github.com/user-attachments/assets/bbb9c076-ee50-46f9-bc2d-00aa54c1745f" />
 
 
 ** Systems that are in beta have recently been added,if you have one, please let us know how you get on via Discord.
