@@ -89,14 +89,8 @@ https://discord.gg/CJkEJws2fN
 4) Give it a try!
 5) If everything works, grab a licence at https://buymeacoffee.com/arcadeioemulator
 
-We will be updating this project regularly, so please check back for updates!
-
 # Got a machine we haven't supported?
 If you have a machine that needs IO working with modern pc's, let us know! We'd love to add support. Hop on our Discord server and let us know (link above)
-
-# Want to contribute?
-If you have experience in reverse engineering arcade IO, we'd love you to get involved.
-We're looking to add as many IO board emulations as possible. Just drop us a line on Discord.
 
 # Special Thanks and acknowledgements
 - Corey Griffith and Joseph Howse for their Taito FastIO implementation https://github.com/JoeHowse/FastIO2KB.
