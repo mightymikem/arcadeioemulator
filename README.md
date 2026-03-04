@@ -87,7 +87,7 @@ https://discord.gg/CJkEJws2fN
 2) Follow the instructions for your cabinet/board.
 3) Once done, your cabinet will appear as a new game controller you can use in any game.
 4) Give it a try!
-5) If everything works, grab a licence at https://buymeacoffee.com/arcadeioemulator
+5) If everything works, grab a licence at https://buymeacoffee.com/arcadeioemulator. Licencing is for life and doesnt require an internet connection :)
 
 # Got a machine we haven't supported?
 If you have a machine that needs IO working with modern pc's, let us know! We'd love to add support. Hop on our Discord server and let us know (link above)
