@@ -82,27 +82,12 @@ https://discord.gg/CJkEJws2fN
 
 ** Systems that are in beta have recently been added,if you have one, please let us know how you get on via Discord.
 
-# Installation guide
+# Super Easy Installation
 1) Download the latest release here https://github.com/mightymikem/arcadeioemulator/releases
-2) Once installed, your cabinet will appear as a new game controller you can use in any game.
-3) Give it a try!
-4) If everything works, grab a licence at https://buymeacoffee.com/arcadeioemulator
-
-
-# Board Specific Instructions
-Use the following instructions based on your arcade boards...
-
-# Raw Thrills / Sega Europa R
-1) Connect the USB cable from the main IO board to your PC. It's the green one with the Jamma harness attached.
-2) (Optional) Connect the LPT port from the second IO board (Usually seated below the Jamma board) to your PC if you have an LPT port on your PC. Ideally, your motherboard has a built-in LPT port; support can be spotty for generic cards. Everything will work fine without this, but you won't get Force Feedback.
-3) (Optional) If you have connected the LPT port above, make sure the port is running on PORT 0378 - 037F if possible; if not, it should still work. You may need to do this in Device Manager, or bios, or both. Some users have also reported that changing the LPT port to LPT3 seems to fix issues with external LPT cards, etc.
-
-# Golden Tee
-1) Connect the USB cable from the main IO board to your PC. That's it!
-
-# JVS Boards
-1) Connect the IO board cable to your RS-485 → USB adapter.
-2) Plugin USB from the adapter into your PC.
+2) Follow the instructions for your cabinet/board.
+3) Once done, your cabinet will appear as a new game controller you can use in any game.
+4) Give it a try!
+5) If everything works, grab a licence at https://buymeacoffee.com/arcadeioemulator
 
 We will be updating this project regularly, so please check back for updates!
 
