@@ -76,6 +76,9 @@ https://discord.gg/CJkEJws2fN
    - **Other JVS Boards**
       - We think this should work with many more boards also.
 
+<img width="516" height="420" alt="image" src="https://github.com/user-attachments/assets/bbb9c076-ee50-46f9-bc2d-00aa54c1745f" />
+
+
 ** Systems that are in beta have recently been added,if you have one, please let us know how you get on via Discord.
 
 # Installation guide
