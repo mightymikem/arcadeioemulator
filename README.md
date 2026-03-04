@@ -13,7 +13,7 @@ Force feedback is also supported, along with output lamps which use any kind of 
 If you need a hand or would just like to be amongst fellow arcade enthusiasts, please visit our Discord.
 https://discord.gg/CJkEJws2fN
 
-# Support for lots of systems...
+# Support for multiple systems...
 
 <img width="516" height="420" alt="image" src="https://github.com/user-attachments/assets/bbb9c076-ee50-46f9-bc2d-00aa54c1745f" />
 
