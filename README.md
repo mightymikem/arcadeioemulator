@@ -90,6 +90,9 @@ https://discord.gg/CJkEJws2fN
 4) Give it a try!
 5) If everything works, grab a licence at https://buymeacoffee.com/arcadeioemulator. A licence is for life for one pc, and doesnt require an internet connection :)
 
+# Setup Videos
+- Raw Thrills: https://www.youtube.com/watch?v=3yjp-yZ1GlU
+
 # Got a machine we haven't supported?
 If you have a machine that needs IO working with modern pc's, let us know! We'd love to add support. Hop on our Discord server and let us know (link above)
 
