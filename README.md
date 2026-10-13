@@ -99,16 +99,16 @@ https://discord.gg/CJkEJws2fN
 <img width="667" height="361" alt="image" src="https://github.com/user-attachments/assets/58762261-f9f6-4bdc-85fc-61d953826efe" />
 Automatically detects the game being played and remaps outputs so they work without any issues just as they should on your cabinet.
 Works with Mame, TeknoParrot OutputBlaster and FFBBlaster, Demulshooter and more natively.
+Alternatively setup your outputs per game, its your choice!
+
+# Wheel, Lightgun and Trackball Calibration
+<img width="698" height="274" alt="image" src="https://github.com/user-attachments/assets/220e389b-6bc4-4cea-8620-f26b7ce1c9d2" />
+Ensure your controls are working just as they should be, no matter what state your pots are in with auto calibration for wheels, gas and brake, lightguns, trackballs and more.
 
 # Also in the app
 - Rebind cabinet buttons and lamps
-- Known games get their lamps mapped automatically when FFBBlaster, OutputBlaster, or DemulShooter is running. DemulShooter start, gun recoil, holder, brake, and billboard outputs light the matching cabinet lamps. If a game isn't in the list, open Outputs while it's running and bind what you see to your cabinet lamps
-- Calibrate the wheel, pedals, and other controls
-- JVS light guns hold the crosshair still while you aim, so you can calibrate
-- H2Overdrive on a Raw Thrills board includes force feedback, cabinet lamps, and the LED speedo
 - Menus and setup guides in English, French, German, and Spanish
-- Optional update check when the app starts. Turn it off in General Options if the cabinet has no internet
-
+- Auto updates if you have a web connection on your cabinet.
 
 # Super Easy Installation
 1) Download the latest release here https://github.com/mightymikem/arcadeioemulator/releases
