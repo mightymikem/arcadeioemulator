@@ -2,7 +2,7 @@
 **Turn your original arcade cabinet into a plug-and-play PC machine.
 No crazy setup, no rewiring.**
 
-<img width="1200" height="1200" alt="1771569479898576332006785203525" src="https://github.com/user-attachments/assets/5200769a-40d4-4a0a-a78b-dbd5e578312f" />
+<img width="1481" height="857" alt="image" src="https://github.com/user-attachments/assets/a15dfca3-4d69-4d6b-a15a-c674e923c0ae" />
 
 
 ArcadeIOEmulator is the easiest way to replace an original arcade PC with a modern equivalent, or just unlock your existing hardware, enabling it to play any PC, emulator or retro game. 
