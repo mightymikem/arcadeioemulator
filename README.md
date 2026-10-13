@@ -8,7 +8,7 @@ No crazy setup, no rewiring.**
 ArcadeIOEmulator is the easiest way to replace an original arcade PC with a modern equivalent, or just unlock your existing hardware, enabling it to play any PC, emulator or retro game. 
 
 Acting like an all-in-one Windows driver, all controls will be available on your Windows PC as a new game controller that can be used with any emulator or game.
-Force feedback is also supported, along with output lamps which use any kind of program such as Teknoparrot, outputblaster, ffbblaster, supermodel, mame etc.
+Force feedback is also supported, along with output lamps which use any kind of program such as Teknoparrot, outputblaster, ffbblaster, DemulShooter, supermodel, mame etc.
 
 If you need a hand or would just like to be amongst fellow arcade enthusiasts, please visit our Discord.
 https://discord.gg/CJkEJws2fN
@@ -86,12 +86,17 @@ https://discord.gg/CJkEJws2fN
    - Razing Storm light guns work by mapping vJoy in TeknoParrot
    - Full setup info is shown when you fire up the app
 
+- **Sega IO4 (RingEdge / ALLS) (BETA)**
+   - 835-15257 I/O board over a normal USB port. No extra driver
+   - Wheel, light-gun, and button cabinets. Auto picks from the analog count: three or more is a wheel, two or four is guns, otherwise buttons. You can override this in Sega IO4 Settings
+   - Cabinet lamps are supported
+
 
 ** Systems that are in beta have recently been added,if you have one, please let us know how you get on via Discord.
 
 # Also in the app
 - Rebind cabinet buttons and lamps
-- Known games get their lamps mapped automatically when FFBBlaster or OutputBlaster is running. If a game isn't in the list, open Outputs while it's running and bind what you see to your cabinet lamps
+- Known games get their lamps mapped automatically when FFBBlaster, OutputBlaster, or DemulShooter is running. DemulShooter start, gun recoil, holder, brake, and billboard outputs light the matching cabinet lamps. If a game isn't in the list, open Outputs while it's running and bind what you see to your cabinet lamps
 - Calibrate the wheel, pedals, and other controls
 - JVS light guns hold the crosshair still while you aim, so you can calibrate
 - H2Overdrive on a Raw Thrills board includes force feedback, cabinet lamps, and the LED speedo
@@ -115,4 +120,5 @@ If you have a machine that needs IO working with modern pc's, let us know! We'd 
 # Special Thanks and acknowledgements
 - Corey Griffith and Joseph Howse for their Taito FastIO implementation https://github.com/JoeHowse/FastIO2KB.
 - Benjamin Maurin for his incredible VjoyIoFeeder project https://github.com/njz3/vJoyIOFeederWithFFB.
+- argonlefou for DemulShooter https://github.com/argonlefou/DemulShooter.
 
