@@ -21,7 +21,7 @@ https://discord.gg/CJkEJws2fN
 - **Raw Thrills**
    - Fast and Furious Cabinets
    - Fast and Furious Drift Cabinets
-   - H2 Overdrive Cabinets
+   - H2 Overdrive Cabinets including ALL boards, led's etc
    - Superbikes 1 + 2 Cabinets
    - Other raw thrills Cabinets
    - Requires a USB port on the PC, and optionally a LPT port for Force Feedback
