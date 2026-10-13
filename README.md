@@ -95,6 +95,11 @@ https://discord.gg/CJkEJws2fN
 
 ** Systems that are in beta have recently been added,if you have one, please let us know how you get on via Discord.
 
+# Auto Outputs
+<img width="667" height="361" alt="image" src="https://github.com/user-attachments/assets/58762261-f9f6-4bdc-85fc-61d953826efe" />
+Automatically detects the game being played and remaps outputs so they work without any issues just as they should on your cabinet.
+Works with Mame, TeknoParrot OutputBlaster and FFBBlaster, Demulshooter and more natively.
+
 # Also in the app
 - Rebind cabinet buttons and lamps
 - Known games get their lamps mapped automatically when FFBBlaster, OutputBlaster, or DemulShooter is running. DemulShooter start, gun recoil, holder, brake, and billboard outputs light the matching cabinet lamps. If a game isn't in the list, open Outputs while it's running and bind what you see to your cabinet lamps
