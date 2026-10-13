@@ -35,6 +35,7 @@ https://discord.gg/CJkEJws2fN
    - PGA Tour Challenge etc
    - Need for Speed
    - And many more
+   - Trackball cabinets by default. Driving cabinets can use the wheel and an LPT port for force feedback
    - Requires a USB port on a PC
 
 - **BETA: Taito x2/x3**
@@ -77,17 +78,34 @@ https://discord.gg/CJkEJws2fN
       - Triforce
       - RingEdge
       - etc
+      - Sega 838-13683 boards can also plug in over USB. Pick Sega JVS / NAOMI (WinUSB) and the app can install the driver
    - **Other JVS Boards**
       - We think this should work with many more boards also.
 
+- **BETA: Namco USIO (System 357 / 369)**
+   - USB connection to the USIO PCB. DIP switch 2 must be OFF
+   - The app can install the WinUSB driver for you
+   - Razing Storm light guns work by mapping vJoy in TeknoParrot
+   - Full setup info is shown when you fire up the app
+
 
 ** Systems that are in beta have recently been added,if you have one, please let us know how you get on via Discord.
+
+# Also in the app
+- Rebind cabinet buttons and lamps
+- Known games get their lamps mapped automatically when FFBBlaster or OutputBlaster is running. If a game isn't in the list, open Outputs while it's running and bind what you see to your cabinet lamps
+- Calibrate the wheel, pedals, and other controls
+- JVS light guns hold the crosshair still while you aim, so you can calibrate
+- H2Overdrive on a Raw Thrills board includes force feedback, cabinet lamps, and the LED speedo
+- Menus and setup guides in English, French, German, and Spanish
+- Optional update check when the app starts. Turn it off in General Options if the cabinet has no internet
+
 
 # Super Easy Installation
 1) Download the latest release here https://github.com/mightymikem/arcadeioemulator/releases
 2) Follow the instructions for your cabinet/board.
 3) Once done, your cabinet will appear as a new game controller you can use in any game.
-4) Give it a try!
+4) Give it a try! Unlicensed runs last 5 minutes at a time.
 5) If everything works, grab a licence at https://buymeacoffee.com/arcadeioemulator. A licence is for life for one pc, and doesnt require an internet connection :)
 
 # Setup Videos
