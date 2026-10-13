@@ -38,24 +38,22 @@ https://discord.gg/CJkEJws2fN
    - Trackball cabinets by default. Driving cabinets can use the wheel and an LPT port for force feedback
    - Requires a USB port on a PC
 
-- **BETA: Taito x2/x3**
+- **Taito x2/x3**
    - Support Fast I/O DMAC boards
    - Fast I/O microcontroller boards
    - Full setup info is shown when you fire up the app.
    - Falls back to JVS if Fast IO is not available
 
-- **BETA: Taito Type X4**
-   - Tested with "Love Life after school activity".
-   - Haven't tried others yet
+- **Taito Type X4**
    - Requires a USB port on a PC
 
-- **BETA: Sega Europa-R**
+- **Sega Europa-R**
    - Sega Rally 3 Cabinets
    - Sega Showdown Cabinets
    - Sega Grid Cabinets
    - Requires a USB port on a PC, and optionally a LPT port for Force Feedback
    
-- **BETA: All in one JVS Support** 
+- **All in one JVS Support** 
    - Requires RS-485 → USB adapter
    - **Namco JVS Supported** 
       - Mario Kart Arcade Cabinets
@@ -82,7 +80,7 @@ https://discord.gg/CJkEJws2fN
    - **Other JVS Boards**
       - We think this should work with many more boards also.
 
-- **BETA: Namco USIO (System 357 / 369)**
+- **Namco USIO (System 357 / 369)**
    - USB connection to the USIO PCB. DIP switch 2 must be OFF
    - The app can install the WinUSB driver for you
    - Razing Storm light guns work by mapping vJoy in TeknoParrot
