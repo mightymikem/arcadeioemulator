@@ -19,7 +19,14 @@ https://discord.gg/CJkEJws2fN
 
 
 - **Raw Thrills**
-   - USB I/O cabinets: The Fast and the Furious, The Fast and the Furious: Drift, Fast & Furious SuperCars, Super Bikes, Super Bikes 2, H2Overdrive (including the lamp and LED boards), Dirty Drivin', and Nicktoons Nitro
+   - USB I/O cabinets:
+     - The Fast and the Furious
+     - The Fast and the Furious: Drift
+     - Fast & Furious SuperCars
+     - Super Bikes, Super Bikes 2
+     - H2Overdrive (including the lamp and LED boards)
+     - Dirty Drivin'
+     - Nicktoons Nitro
    - Requires a USB port on the PC, and optionally a LPT port for Force Feedback
    - Setup Video: https://www.youtube.com/watch?v=3yjp-yZ1GlU
 
