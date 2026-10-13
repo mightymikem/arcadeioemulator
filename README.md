@@ -88,8 +88,9 @@ https://discord.gg/CJkEJws2fN
 
 - **Sega IO4 (RingEdge / ALLS) (BETA)**
    - 835-15257 I/O board over a normal USB port. No extra driver
-   - Wheel, light-gun, and button cabinets. Auto picks from the analog count: three or more is a wheel, two or four is guns, otherwise buttons. You can override this in Sega IO4 Settings
+   - Wheel, light-gun, and button cabinets. Should auto detect, if not you can swap the board config type in board settings
    - Cabinet lamps are supported
+   - FFB In progress
 
 
 ** Systems that are in beta have recently been added,if you have one, please let us know how you get on via Discord.
