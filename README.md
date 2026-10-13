@@ -15,7 +15,7 @@ https://discord.gg/CJkEJws2fN
 
 # Support for multiple systems...
 
-<img width="516" height="420" alt="image" src="https://github.com/user-attachments/assets/bbb9c076-ee50-46f9-bc2d-00aa54c1745f" />
+<img width="832" height="662" alt="image" src="https://github.com/user-attachments/assets/2cd2c6c7-b5f3-4334-a397-a0bded95d22c" />
 
 
 - **Raw Thrills**
