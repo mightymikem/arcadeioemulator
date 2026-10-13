@@ -221,12 +221,14 @@ https://discord.gg/CJkEJws2fN
 
 # Auto Outputs
 <img width="667" height="361" alt="image" src="https://github.com/user-attachments/assets/58762261-f9f6-4bdc-85fc-61d953826efe" />
+
 Automatically detects the game being played and remaps outputs so they work without any issues just as they should on your cabinet.
 Works with Mame, TeknoParrot OutputBlaster and FFBBlaster, Demulshooter and more natively.
 Alternatively setup your outputs per game, its your choice!
 
 # Wheel, Lightgun and Trackball Calibration
 <img width="698" height="274" alt="image" src="https://github.com/user-attachments/assets/220e389b-6bc4-4cea-8620-f26b7ce1c9d2" />
+
 Ensure your controls are working just as they should be, no matter what state your pots are in with auto calibration for wheels, gas and brake, lightguns, trackballs and more.
 
 # Also in the app
