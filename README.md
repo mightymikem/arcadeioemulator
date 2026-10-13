@@ -19,75 +19,106 @@ https://discord.gg/CJkEJws2fN
 
 
 - **Raw Thrills**
-   - Fast and Furious Cabinets
-   - Fast and Furious Drift Cabinets
-   - H2 Overdrive Cabinets including ALL boards, led's etc
-   - Superbikes 1 + 2 Cabinets
-   - Other raw thrills Cabinets
+   - USB I/O cabinets: The Fast and the Furious, The Fast and the Furious: Drift, Fast & Furious SuperCars, Super Bikes, Super Bikes 2, H2Overdrive (including the lamp and LED boards), Dirty Drivin', and Nicktoons Nitro
    - Requires a USB port on the PC, and optionally a LPT port for Force Feedback
    - Setup Video: https://www.youtube.com/watch?v=3yjp-yZ1GlU
 
 - **Golden Tee**
-   - Golden Tee 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019 Cabinets. Maybe newer and older, not tested.
+   - Incredible Technologies Golden Tee cabinets from 2006 through 2019. Newer and older years are not tested.
    - Requires a USB port on a PC
 
 - **Global VR (Nytric Board)**
-   - PGA Tour Challenge etc
-   - Need for Speed
-   - And many more
+   - EA Sports PGA Tour Golf, including Championship II, Championship III, Challenge Edition, and Team Challenge
+   - Need for Speed Underground
+   - Need for Speed GT
+   - Need for Speed Carbon upgrade cabinets. Dedicated Carbon cabinets use a different GVRI/O board
+   - EA Sports Madden Football (2-player)
    - Trackball cabinets by default. Driving cabinets can use the wheel and an LPT port for force feedback
    - Requires a USB port on a PC
 
-- **Taito x2/x3**
-   - Support Fast I/O DMAC boards
-   - Fast I/O microcontroller boards
-   - Full setup info is shown when you fire up the app.
-   - Falls back to JVS if Fast IO is not available
+- **Taito Type X2 / X3 (Fast I/O)**
+   - Cabinets built with the Fast I/O DMAC card: Dariusburst: Another Chronicle, Dariusburst: Another Chronicle EX, and NESiCAxLive Type X2 machines
+   - Type X3 cabinets: Gyrozetter, Gunslinger Stratos, Gunslinger Stratos 2, Gunslinger Stratos 3, Left 4 Dead: Survivors, Lord of Vermilion III, Lord of Vermilion IV, Ultra Street Fighter IV, Theatrhythm Final Fantasy: All-Star Carnival, School of Ragnarok, BlazBlue: Cross Tag Battle, Fighting EX Layer, The King of Fighters XIV, and Samurai Shodown (2019)
+   - Full setup info is shown when you fire up the app
+   - Falls back to JVS if Fast I/O is not available
 
 - **Taito Type X4**
+   - Densha de Go!!
+   - Love Live! School Idol Festival: After School Activity, and Next Stage
+   - Magicians Dead, and Magicians Dead Next Blazing
+   - Starwing Paradox
+   - Street Fighter V: Type Arcade
+   - Street Fighter 6: Type Arcade
    - Requires a USB port on a PC
 
 - **Sega Europa-R**
-   - Sega Rally 3 Cabinets
-   - Sega Showdown Cabinets
-   - Sega Grid Cabinets
+   - Sega Rally 3
+   - GRID
+   - Showdown
    - Requires a USB port on a PC, and optionally a LPT port for Force Feedback
    
 - **All in one JVS Support** 
    - Requires RS-485 → USB adapter
    - **Namco JVS Supported** 
-      - Mario Kart Arcade Cabinets
-      - Machstorm Cabinets
-      - Star Wars Battlepod Cabinets
-      - Wangan Midnight Maximum Tune 5, 5DX, 5DX PLUS, 6, 6R etc Cabinets
-      - Tekken 7 Cabinets
-      - Time Crisis 5 Cabinets
-      - Pokken Tournament Cabinets
-      - Dead Heat Cabinets
-      - Many other Namco JVS Cabinets   
+      - Mario Kart Arcade GP cabinets
+      - Mach Storm
+      - Star Wars: Battle Pod
+      - Wangan Midnight Maximum Tune 5, 5DX, 5DX+, 6, and 6R
+      - Tekken 7
+      - Time Crisis 5
+      - Pokken Tournament
+      - Dead Heat
+      - Other Namco cabinets that use a JVS I/O board. System 357 and 369 cabinets use the USIO board below instead
    - **Taito JVS Supported**
-      - Chase HQ 2 Cabinets
-      - D1GP Cabinets
-      - Super Street Fighter 4 Cabinets
-      - Many other Taito cabinets
+      - Chase H.Q. 2
+      - D1GP
+      - Street Fighter IV
+      - Super Street Fighter IV
+      - The King of Fighters XII
+      - The King of Fighters XIII
+      - BlazBlue
+      - Wacky Races
+      - Elevator Action Death Parade
+      - Haunted Museum
+      - Other Type X2 cabinets wired to a JVS I/O board. Cabinets with the Fast I/O card use the Type X2 / X3 option above
    - **Sega JVS Supported**
-      - Naomi/Naomi 2
-      - Lindbergh
-      - Triforce
-      - RingEdge
-      - etc
+      - Naomi and Naomi 2, including the 838-13683 USB board: Crazy Taxi, The House of the Dead 2, Virtua Tennis, Virtua Fighter 4, Marvel vs. Capcom 2, Initial D Arcade Stage, OutRun 2, Confidential Mission, and The Typing of the Dead
+      - Triforce: F-Zero AX
+      - Lindbergh: OutRun 2 SP, Virtua Fighter 5, Virtua Tennis 3, The House of the Dead 4, Initial D Arcade Stage 4, Initial D Arcade Stage 5, Let's Go Jungle, Sega Race TV, R-Tuned, Hummer, and Hummer Extreme
+      - RingEdge cabinets with the older JVS I/O board: Border Break, After Burner Climax, Hatsune Miku: Project DIVA Arcade, Virtua Tennis 4, Let's Go Island 3D, Initial D Arcade Stage 6 AA, Initial D Arcade Stage 7 AAX, Initial D Arcade Stage 8 Infinity, Operation G.H.O.S.T., and Transformers: Human Alliance
       - Sega 838-13683 boards can also plug in over USB. Pick Sega JVS / NAOMI (WinUSB) and the app can install the driver
    - **Other JVS Boards**
-      - We think this should work with many more boards also.
+      - Other cabinets that speak JVS should work too
 
 - **Namco USIO (System 357 / 369)**
+   - Tekken 6, and Tekken 6: Bloodline Rebellion
+   - Tekken Tag Tournament 2, and Unlimited
+   - Razing Storm
+   - Deadstorm Pirates, and Deadstorm Pirates Special Edition
+   - Dark Escape 3D, and Dark Escape 4D
+   - Dragon Ball Zenkai Battle Royale
+   - Gundam: Extreme Vs., Full Boost, and Maxi Boost
+   - Taiko no Tatsujin System 357 cabinets
+   - Sailor Zombie
    - USB connection to the USIO PCB. DIP switch 2 must be OFF
    - The app can install the WinUSB driver for you
    - Razing Storm light guns work by mapping vJoy in TeknoParrot
    - Full setup info is shown when you fire up the app
 
-- **Sega IO4 (RingEdge / ALLS) (BETA)**
-   - 835-15257 I/O board over a normal USB port. No extra driver
+- **Sega IO4 (ALLS) (BETA)**
+   - 835-15257 USB I/O board. No extra driver. This is the ALLS cabinet I/O, not the older RingEdge JVS board
+   - House of the Dead: Scarlet Dawn
+   - Fate/Grand Order Arcade
+   - maimai DX
+   - CHUNITHM SUPERSTAR, NEW, and later ALLS versions
+   - Ongeki
+   - Sega World Drivers Championship
+   - Soul Reverse
+   - Puyo Puyo eSports
+   - Virtua Fighter 5 Ultimate Showdown
+   - Dead or Alive 6
+   - Mario & Sonic at the Olympic Games Tokyo 2020 Arcade Edition
+   - WCCF Footista
    - Wheel, light-gun, and button cabinets. Should auto detect, if not you can swap the board config type in board settings
    - Cabinet lamps are supported
    - FFB In progress
