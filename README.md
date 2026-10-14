@@ -198,7 +198,7 @@ https://discord.gg/CJkEJws2fN
    - Full setup info is shown when you fire up the app
 
 - **Sega IO4 (ALLS) (BETA)**
-   - 835-15257 USB I/O board. No extra driver. This is the ALLS cabinet I/O, not the older RingEdge JVS board
+   - 835-15257 USB I/O board. No extra driver. This is the ALLS cabinet I/O.
    - ALLS cabinets:
      - House of the Dead: Scarlet Dawn
      - Fate/Grand Order Arcade
@@ -221,23 +221,21 @@ https://discord.gg/CJkEJws2fN
    - Konami BIO2 USB board. Windows already has the COM port driver, so nothing extra to install
    - beatmania IIDX cabinets from IIDX 25 onward. Keys, turntables, sliders, start and effect buttons, and cabinet lamps
    - Sound Voltex cabinets from Vivid Wave onward. Buttons, knobs, and button lamps. Choose Sound Voltex in the board options. IIDX is the default
-   - The first connection takes a few seconds while the board starts up
-   - If the COM port is not found, set Port=COMx in bio2.ini next to the program
+   - Requires COM port. You can change com port in bio2.ini if needed
 
 - **Konami KFCA (BETA)**
-   - Konami KFCA, the Sound Voltex board from before BIO2. It uses a COM port at 57600. Windows already has the driver
-   - Sound Voltex cabinets before Vivid Wave. Buttons, knobs, and button lamps:
+   - Sound Voltex cabinets before Vivid Wave. Supports Buttons, knobs, volume and button lamps:
      - SOUND VOLTEX BOOTH
      - SOUND VOLTEX II -infinite infection-
      - SOUND VOLTEX III GRAVITY WARS
      - SOUND VOLTEX IV HEAVENLY HAVEN
-   - The program cannot find this board by itself. Open KFCA Options, type the COM port, save, and start the program again
-   - Main, headphone, and subwoofer volume are separate. 0 is quiet and 96 is the loudest
+   - Requires COM port.
 
 - **Konami P3IO (BETA)**
-   - Konami P3IO for Dance Dance Revolution. Bind WinUSB to VID 1CCF / PID 8008, or keep the Konami driver if the cabinet already has it. Windows may show the board as python3 I/O
-   - Dance Dance Revolution cabinets that use the P3IO. Both players' pads, start, and menu buttons
-   - Pad arrow lights and bass neons use the EXTIO COM port in P3IO Options. Leave that port blank and the pads still play
+   - Konami P3IO for Dance Dance Revolution. Works with no konami driver, or with it also if you have it
+   - Dance Dance Revolution cabinets that use the P3IO. 
+   - Both players' pads, start, and menu buttons supported
+   - OPTIONAL: Pad arrow lights and bass neons use the EXTIO COM port in P3IO Options.
 
 ** Systems that are in beta have recently been added,if you have one, please let us know how you get on via Discord.
 
