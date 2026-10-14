@@ -217,6 +217,12 @@ https://discord.gg/CJkEJws2fN
    - Cabinet lamps are supported
    - FFB: Sega 838-15069 drive board fully supported
 
+- **Konami BIO2 (BETA)**
+   - Konami BIO2 USB board. Windows already has the COM port driver, so nothing extra to install
+   - beatmania IIDX cabinets from IIDX 25 onward. Keys, turntables, sliders, start and effect buttons, and cabinet lamps
+   - Sound Voltex cabinets from Vivid Wave onward. Buttons, knobs, and button lamps. Choose Sound Voltex in the board options. IIDX is the default
+   - The first connection takes a few seconds while the board starts up
+   - If the COM port is not found, set Port=COMx in bio2.ini next to the program
 
 ** Systems that are in beta have recently been added,if you have one, please let us know how you get on via Discord.
 
@@ -254,4 +260,5 @@ If you have a machine that needs IO working with modern pc's, let us know! We'd 
 - Corey Griffith and Joseph Howse for their Taito FastIO implementation https://github.com/JoeHowse/FastIO2KB.
 - Benjamin Maurin for his incredible VjoyIoFeeder project https://github.com/njz3/vJoyIOFeederWithFFB.
 - argonlefou for DemulShooter https://github.com/argonlefou/DemulShooter.
+- djhackersdev for the bemanitools BIO2 protocol reference https://github.com/djhackersdev/bemanitools.
 
