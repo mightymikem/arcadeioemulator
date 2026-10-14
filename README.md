@@ -104,7 +104,8 @@ https://discord.gg/CJkEJws2fN
      - Sega Rally 3
      - GRID
      - Showdown
-   - Requires a USB port on the PC, and optionally a LPT port for Force Feedback
+   - Requires a USB port on the PC
+   - Requires port for FFB (Uses FFB Board 838-15069)
    
 - **All in one JVS Support** 
    - Requires RS-485 → USB adapter
