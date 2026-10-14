@@ -224,6 +224,21 @@ https://discord.gg/CJkEJws2fN
    - The first connection takes a few seconds while the board starts up
    - If the COM port is not found, set Port=COMx in bio2.ini next to the program
 
+- **Konami KFCA (BETA)**
+   - Konami KFCA, the Sound Voltex board from before BIO2. It uses a COM port at 57600. Windows already has the driver
+   - Sound Voltex cabinets before Vivid Wave. Buttons, knobs, and button lamps:
+     - SOUND VOLTEX BOOTH
+     - SOUND VOLTEX II -infinite infection-
+     - SOUND VOLTEX III GRAVITY WARS
+     - SOUND VOLTEX IV HEAVENLY HAVEN
+   - The program cannot find this board by itself. Open KFCA Options, type the COM port, save, and start the program again
+   - Main, headphone, and subwoofer volume are separate. 0 is quiet and 96 is the loudest
+
+- **Konami P3IO (BETA)**
+   - Konami P3IO for Dance Dance Revolution. Bind WinUSB to VID 1CCF / PID 8008, or keep the Konami driver if the cabinet already has it. Windows may show the board as python3 I/O
+   - Dance Dance Revolution cabinets that use the P3IO. Both players' pads, start, and menu buttons
+   - Pad arrow lights and bass neons use the EXTIO COM port in P3IO Options. Leave that port blank and the pads still play
+
 ** Systems that are in beta have recently been added,if you have one, please let us know how you get on via Discord.
 
 # Auto Outputs
