@@ -214,7 +214,7 @@ https://discord.gg/CJkEJws2fN
      - WCCF Footista
    - Wheel, light-gun, and button cabinets. Should auto detect, if not you can swap the board config type in board settings
    - Cabinet lamps are supported
-   - FFB In progress
+   - FFB: Sega 838-15069 drive board fully supported
 
 
 ** Systems that are in beta have recently been added,if you have one, please let us know how you get on via Discord.
