@@ -105,7 +105,7 @@ https://discord.gg/CJkEJws2fN
      - GRID
      - Showdown
    - Requires a USB port on the PC
-   - Requires port for FFB (Uses FFB Board 838-15069)
+   - Requires parallel port for FFB (Uses FFB Board 838-15069)
    
 - **All in one JVS Support** 
    - Requires RS-485 → USB adapter
