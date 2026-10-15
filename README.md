@@ -60,9 +60,19 @@ https://discord.gg/CJkEJws2fN
      - Need for Speed GT
      - Need for Speed Carbon upgrade cabinets
      - EA Sports Madden Football (2-player)
-   - Dedicated Carbon cabinets use a different GVRI/O board
+   - Dedicated Carbon cabinets use the GVR I/O Mini below
    - Trackball cabinets by default. Driving cabinets can use the wheel and an LPT port for force feedback
    - Requires a USB port on a PC
+
+- **Global VR (GVR I/O Mini)**
+   - Dedicated cabinets that use the GVR I/O Mini:
+     - Need for Speed Carbon
+     - Twisted — Nitro Stunt Racing
+     - Redline Rampage
+   - Standard USB HID. No extra driver. Wheel, pedals, shifter, and cabinet lamps
+   - Force feedback is the Immersion TouchSense wheel on its own USB port
+   - Need for Speed Carbon upgrade cabinets use the Nytric board above
+   - Requires a USB port on the PC
 
 - **Taito Type X2 / X3 (Fast I/O)**
    - Fast I/O DMAC cabinets:
