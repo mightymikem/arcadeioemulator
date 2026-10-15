@@ -69,8 +69,9 @@ https://discord.gg/CJkEJws2fN
      - Need for Speed Carbon
      - Twisted — Nitro Stunt Racing
      - Redline Rampage
-   - Standard USB HID. No extra driver. Wheel, pedals, shifter, and cabinet lamps
-   - Force feedback is the Immersion TouchSense wheel on its own USB port
+   - Wheel, pedals, shifter, and cabinet lamps supported
+   - Force feedback Immersion Touch Sense Wheel board supported
+   - Motion Board Supported
    - Need for Speed Carbon upgrade cabinets use the Nytric board above
    - Requires a USB port on the PC
 
