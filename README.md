@@ -61,8 +61,8 @@ https://discord.gg/CJkEJws2fN
      - Need for Speed Carbon upgrade cabinets
      - EA Sports Madden Football (2-player)
    - Dedicated Carbon cabinets use the GVR I/O Mini below
-   - Trackball cabinets by default. Driving cabinets can use the wheel and an LPT port for the Raw Thrills 500-00037 steering motor
-   - Requires a USB port on a PC
+   - Full trackball and driving configurations supported.
+   - Requires a USB port on a PC and optional lot port for wheel ffb.
 
 - **Global VR (GVR I/O Mini)**
    - Dedicated cabinets that use the GVR I/O Mini:
@@ -209,7 +209,7 @@ https://discord.gg/CJkEJws2fN
    - Razing Storm light guns work by mapping vJoy in TeknoParrot
    - Full setup info is shown when you fire up the app
 
-- **Sega IO4 (ALLS) (BETA)**
+- **Sega IO4 (ALLS)**
    - 835-15257 USB I/O board. No extra driver. This is the ALLS cabinet I/O.
    - ALLS cabinets:
      - House of the Dead: Scarlet Dawn
@@ -226,10 +226,10 @@ https://discord.gg/CJkEJws2fN
      - Mario & Sonic at the Olympic Games Tokyo 2020 Arcade Edition
      - WCCF Footista
    - Wheel, light-gun, and button cabinets. Should auto detect, if not you can swap the board config type in board settings
-   - Cabinet side lamps use the Sega 837-15070 LED driver
+   - Full support for cabinet side lamps via the Sega 837-15070 LED driver
    - The 837-15093 RGB strip (left, center, and right) is supported
    - The 200-6275 scrolling marquee is supported
-   - The 838-15415 dashboard drives the 838-15416 digit panel (speed, gear, and lamps)
+   - Support for 838-15415 digital readout panel (speed, gear, and tacho)
    - Force feedback uses the Sega 838-15069 motor drive board
 
 - **Konami BIO2 (BETA)**
