@@ -24,10 +24,10 @@ https://discord.gg/CJkEJws2fN
      - The Fast and the Furious: Drift
      - Fast & Furious SuperCars
      - Super Bikes, Super Bikes 2
-     - H2Overdrive (including the lamp and LED boards)
+     - H2Overdrive (including the lamp board and the VH2OSPEED02 speed and boost meter)
      - Dirty Drivin'
      - Nicktoons Nitro
-   - Requires a USB port on the PC, and optionally a LPT port for Force Feedback
+   - Requires a USB port on the PC, and optionally an LPT port for the Raw Thrills 500-00037 steering motor
    - Setup Video: https://www.youtube.com/watch?v=3yjp-yZ1GlU
 
 - **Golden Tee**
@@ -61,7 +61,7 @@ https://discord.gg/CJkEJws2fN
      - Need for Speed Carbon upgrade cabinets
      - EA Sports Madden Football (2-player)
    - Dedicated Carbon cabinets use the GVR I/O Mini below
-   - Trackball cabinets by default. Driving cabinets can use the wheel and an LPT port for force feedback
+   - Trackball cabinets by default. Driving cabinets can use the wheel and an LPT port for the Raw Thrills 500-00037 steering motor
    - Requires a USB port on a PC
 
 - **Global VR (GVR I/O Mini)**
@@ -70,8 +70,8 @@ https://discord.gg/CJkEJws2fN
      - Twisted — Nitro Stunt Racing
      - Redline Rampage
    - Wheel, pedals, shifter, and cabinet lamps supported
-   - Force feedback Immersion Touch Sense Wheel board supported
-   - Motion Board Supported
+   - Force feedback uses the Immersion TouchSense wheel
+   - The Global VR motion seat is supported
    - Need for Speed Carbon upgrade cabinets use the Nytric board above
    - Requires a USB port on the PC
 
@@ -116,8 +116,8 @@ https://discord.gg/CJkEJws2fN
      - GRID
      - Showdown
    - Requires a USB port on the PC
-   - Requires parallel port for FFB (Uses FFB Board 838-15069)
-   
+   - Force feedback uses the Sega FR-838-001UK Happ steering motor on a parallel port
+ 
 - **All in one JVS Support** 
    - Requires RS-485 → USB adapter
    - **Namco JVS Supported** 
@@ -183,6 +183,7 @@ https://discord.gg/CJkEJws2fN
         - Operation G.H.O.S.T.
         - Transformers: Human Alliance
       - Sega 838-13683 boards can also plug in over USB. Pick Sega JVS / NAOMI (WinUSB) and the app can install the driver
+      - Sega driving cabinets use the 838-15069 motor drive board on a COM port for force feedback
    - **Other JVS Boards**
       - Other cabinets that speak JVS should work too
 
@@ -225,8 +226,11 @@ https://discord.gg/CJkEJws2fN
      - Mario & Sonic at the Olympic Games Tokyo 2020 Arcade Edition
      - WCCF Footista
    - Wheel, light-gun, and button cabinets. Should auto detect, if not you can swap the board config type in board settings
-   - Cabinet lamps are supported
-   - FFB: Sega 838-15069 drive board fully supported
+   - Cabinet side lamps use the Sega 837-15070 LED driver
+   - The 837-15093 RGB strip (left, center, and right) is supported
+   - The 200-6275 scrolling marquee is supported
+   - The 838-15415 dashboard drives the 838-15416 digit panel (speed, gear, and lamps)
+   - Force feedback uses the Sega 838-15069 motor drive board
 
 - **Konami BIO2 (BETA)**
    - Konami BIO2 USB board. Windows already has the COM port driver, so nothing extra to install
@@ -246,7 +250,7 @@ https://discord.gg/CJkEJws2fN
    - Konami P3IO for Dance Dance Revolution. Works with no konami driver, or with it also if you have it
    - Dance Dance Revolution cabinets that use the P3IO. 
    - Both players' pads, start, and menu buttons supported
-   - OPTIONAL: Pad arrow lights and bass neons use the EXTIO COM port in P3IO Options.
+   - Optional: pad arrow lights and bass neons use the Konami EXTIO board. Set its COM port in P3IO Options.
 
 ** Systems that are in beta have recently been added,if you have one, please let us know how you get on via Discord.
 
