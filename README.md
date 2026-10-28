@@ -27,8 +27,19 @@ https://discord.gg/CJkEJws2fN
      - H2Overdrive (including the lamp board and the VH2OSPEED02 speed and boost meter)
      - Dirty Drivin'
      - Nicktoons Nitro
-   - RIO cabinets
-     - Superbikes 2
+   - RIO cabinets:
+     - Super Bikes 2
+     - Fast & Furious SuperCars
+     - SnoCross
+     - Batman
+     - Pac-Man Chomp Mania
+     - Jurassic Park
+     - World's Largest Pac-Man
+     - The Walking Dead
+     - Cruis'n Blast
+     - Injustice
+     - Space Invaders Frenzy
+     - MotoGP
    - Requires a USB port on the PC, and optionally an LPT port for the Raw Thrills 500-00037 steering motor
    - Setup Video: https://www.youtube.com/watch?v=3yjp-yZ1GlU
 
