@@ -278,6 +278,17 @@ Alternatively setup your outputs per game, its your choice!
 
 Ensure your controls are working just as they should be, no matter what state your pots are in with auto calibration for wheels, gas and brake, lightguns, trackballs and more.
 
+# Run Original Arcade Games, without emulation
+Run the following games as they came from the arcade, complete with full shells, test menus etc. No hacks.
+-  PGA Tour Championship v4.0 (Global VR)
+-  Supercars (Rawthrills)
+-  Fast and Furious (Rawthrills)
+-  Fast and Furious Drift (Rawthrills)
+-  Niktoons Nitro (Rawthrills)
+-  Showdown (Sega)
+-  Daytona (Sega)
+-  Grid (Sega)
+
 # Also in the app
 - Rebind cabinet buttons and lamps
 - Menus and setup guides in English, French, German, and Spanish
