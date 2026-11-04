@@ -281,6 +281,7 @@ Ensure your controls are working just as they should be, no matter what state yo
 # Run Original Arcade Games, without emulation
 Run the following games as they came from the arcade, complete with full shells, test menus etc. No hacks.
 -  PGA Tour Championship v4.0 (Global VR)
+-  Need for Speed Carbon (Global VR)
 -  Supercars (Rawthrills)
 -  Fast and Furious (Rawthrills)
 -  Fast and Furious Drift (Rawthrills)
