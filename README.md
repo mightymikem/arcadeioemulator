@@ -300,7 +300,7 @@ Run the following games as they came from the arcade, complete with full shells,
 2) Follow the instructions for your cabinet/board.
 3) Once done, your cabinet will appear as a new game controller you can use in any game.
 4) Give it a try! Unlicensed runs last 5 minutes at a time.
-5) If everything works, grab a licence at https://buymeacoffee.com/arcadeioemulator. A licence is for life for one pc, and doesnt require an internet connection :)
+5) If everything works, grab a licence at https://arcadeioemu.com/buy/. A licence is for life for one pc, and doesnt require an internet connection :)
 
 # Setup Videos
 - Raw Thrills: https://www.youtube.com/watch?v=3yjp-yZ1GlU
