@@ -264,6 +264,15 @@ https://discord.gg/CJkEJws2fN
    - Both players' pads, start, and menu buttons supported
    - Optional: pad arrow lights and bass neons use the Konami EXTIO board. Set its COM port in P3IO Options.
 
+- **Pump It Up PIUIO (BETA)**
+   - Original MK6 USB PIUIO board (`VID 0547 / PID 1002`), using standard Pump It Up five-panel wiring
+   - Both players' five panels, Test, Service, Clear, Coin 1 and Coin 2
+   - Forty individual panel-sensor indicators and fifteen panel/cabinet lamp outputs
+   - USB connection with a compatible WinUSB or libusb-win32 driver; select **Pump It Up PIUIO (MK6 USB)** in the app
+   - Lamps can be rebound and tested in the app
+   - Implemented and software-tested; original-board and cabinet-specific hardware validation is still needed
+   - Coin counters, LXIO, the separate PIUBTN menu-button board and ITG wiring are not included
+
 ** Systems that are in beta have recently been added,if you have one, please let us know how you get on via Discord.
 
 # Auto Outputs
