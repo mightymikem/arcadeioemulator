@@ -266,6 +266,15 @@ https://discord.gg/CJkEJws2fN
    - This DDR profile excludes jubeat, MDXF foot lighting, unnamed output channels and analog lamp fades
    - [Setup and troubleshooting](https://arcadeioemu.com/support/konami-p4io/)
 
+- **Konami P4IO + H44B (jubeat) (BETA)**
+   - Sixteen panels in row-major order, plus Test and Service: eighteen bindable vJoy controls
+   - P4IO USB `1CCF:8010` with a compatible WinUSB or libusb driver; explicitly select **Konami P4IO + H44B (jubeat)** because DDR shares this USB identity
+   - Optional H44B lighting: Front, Top, Left, Right, Title and Woofer RGB groups, with eighteen on/off channels, lamp tests and output rebinding
+   - Configure the H44B COM port at 57600 baud and its node in **jubeat P4IO / H44B Settings**; USB inputs work without H44B
+   - ALL-panel sensing and configurable coin-blocker control; Coin input, corner scanning, card-reader input and analog fades are not included
+   - The configured H44B serial port is exclusive; close other software using that ACIO bus
+   - [Setup and troubleshooting](https://arcadeioemu.com/support/jubeat-p4io/)
+
 - **Konami P3IO (BETA)**
    - Konami P3IO for Dance Dance Revolution. Works with no konami driver, or with it also if you have it
    - Dance Dance Revolution cabinets that use the P3IO. 
