@@ -257,6 +257,15 @@ https://discord.gg/CJkEJws2fN
      - SOUND VOLTEX IV HEAVENLY HAVEN
    - Requires COM port.
 
+- **Konami P4IO + MDXF (DDR) (BETA)**
+   - DDR white cabinets fitted with P4IO: USB `1CCF:8010` using a compatible WinUSB or libusb driver
+   - Twenty-one bindable controls: both players' cabinet menu/start buttons and four-panel pads, plus Test, Service and Coin
+   - Thirty-two individual MDXF pad-sensor indicators; configure the separate 115200-baud MDXF COM port and player nodes in board settings
+   - Fifteen cabinet lamps: speaker and woofer colours, plus Start and menu lights for both players
+   - Lamp tests and output rebinding are included; lamp updates use zero coin-counter adjustments
+   - This DDR profile excludes jubeat, MDXF foot lighting, unnamed output channels and analog lamp fades
+   - [Setup and troubleshooting](https://arcadeioemu.com/support/konami-p4io/)
+
 - **Konami P3IO (BETA)**
    - Konami P3IO for Dance Dance Revolution. Works with no konami driver, or with it also if you have it
    - Dance Dance Revolution cabinets that use the P3IO. 
