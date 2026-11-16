@@ -58,7 +58,6 @@ https://discord.gg/CJkEJws2fN
      - 2017
      - 2018
      - 2019
-   - Newer and older years are not tested.
    - Requires a USB port on a PC
 
 - **Global VR (Nytric Board)**
@@ -270,7 +269,6 @@ https://discord.gg/CJkEJws2fN
    - Forty individual panel-sensor indicators and fifteen panel/cabinet lamp outputs
    - USB connection with a compatible WinUSB or libusb-win32 driver; select **Pump It Up PIUIO (MK6 USB)** in the app
    - Lamps can be rebound and tested in the app
-   - Implemented and software-tested; original-board and cabinet-specific hardware validation is still needed
    - Coin counters, LXIO, the separate PIUBTN menu-button board and ITG wiring are not included
 
 ** Systems that are in beta have recently been added,if you have one, please let us know how you get on via Discord.
