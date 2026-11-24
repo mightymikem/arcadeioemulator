@@ -39,6 +39,11 @@ https://discord.gg/CJkEJws2fN
      - Injustice
      - Space Invaders Frenzy
      - MotoGP
+   - RIO2 Cabinets:
+     - Halo
+     - TMNT
+     - Superbikes 3
+     - etc
    - Requires a USB port on the PC, and optionally an LPT port for the Raw Thrills 500-00037 steering motor
    - Setup Video: https://www.youtube.com/watch?v=3yjp-yZ1GlU
 
